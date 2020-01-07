@@ -1,3 +1,7 @@
 # MySQL
-Database architecture and practice using MySQL, based on Udemy Ultimate MySQL course.  
-By Sarah Schwartz (based on code-along work from Udemy course)
+
+## Created by Sarah "Sasa" Schwartz
+Database architecture and practice using MySQL, based on code-along work from Udemy Ultimate MySQL course.
+
+## Technologies
+MySQL, NodeJS
